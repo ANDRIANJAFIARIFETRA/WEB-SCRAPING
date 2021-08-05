@@ -11,5 +11,5 @@ Pré-requis :
   /config/gest_url.sql
 3. Clone le projet dans le branche "main"
 
-4. Entrer dans le dossier /Gest_url et lancer le server apache dans le port 8000 : 
+4. Entrer dans le dossier /WEB-SCRAPING et lancer le server apache dans le port 8000 : 
     php -S localhost:8000 
